@@ -1,1 +1,1 @@
-# fortune-teller
+# Capstone25
